@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Nasa Photos</string>
+
+    <string name="set_as_wallpaper">Set on wallpaper</string>
+    <string name="share">Share photo</string>
+
+    <string name="set_as_wallpaper_completed">Photo set as wallpaper</string>
+
+    <string name="choose_day">Choose a day</string>
+
+    <string name="choose_time">Choose time</string>
+</resources>
